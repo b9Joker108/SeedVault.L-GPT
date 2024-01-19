@@ -1,14 +1,32 @@
 # SeedVault.L-GPT
 
+# Seed
+
 I am principally learning *NIX shell scripting and Python programming to develop this project, 
-which is a free and open source, local GPT, that functions as a knowledge 'seed vault' to kick-
-start humanity's regeneration and community development in the eventuation of a cataclysm or 
-apocalypse. I envision this repository to house a script or suite of scripts that will automate,
-coordinate and programme the digital and non-digital aspects, planning for contingencies and sundry 
-eventualities, in order to realise the project, as well as keeping the localised project and 
+which is a free and open source, local GPT and associated toolkit and auditing sustem, that 
+functions as a knowledge 'seed vault' to kick-start humanity's regeneration, thriving and community 
+development and capacity, in the eventuation of a cataclysm or apocalypse, possibly as a result of 
+rogue AI technology. So essentially, by metaphorical extension, it is a pragmatic and functional 
+set of protocols, with associated automation, to realise the project's and programme's digital and 
+non-digital objectives. 
+
+# Roots
+
+I envision this repository to house an actionable script (or suite of scripts), nested and embedded
+in an interactive and user-friendly, graphical user interface (GUI) environment. I hope that the 
+prototyping and functionality of this project will subsequently be optimised for diverse systems 
+and purposes.
+
+# Sprout
+
+I anticipate this project, to map, coordinate and programme, the digital and non-digital aspects, 
+dubsuming the planning for contingencies and sundry eventualities, in order to realise the project,
+as well as keeping the localised project and 
 initiative, audited and up-to-date, according to best practices. This is ambitious and currently, 
 significantly beyond my propensity and skill level, but realising it will frame and inform my 
 learning and practical endeavours.
+
+# Branching
 
 I have been contemplating this project or its likes, and the need for it, since the emergence of 
 the generative artificial intelligence GPT boom that began globally in 2023. This boom is both a 
@@ -56,6 +74,42 @@ The following are some additional points mentioned in the video:
 Overall, this video provides a comprehensive overview of how to store and access a vast amount of 
 information locally using an LLM. While it's important to remember that this is not a guaranteed 
 solution for every scenario, it can be a valuable tool for preparedness and knowledge preservation.
+
+# Flowering
+
+...
+
+# Fruiting
+
+...
+
+# Seed gathering
+
+...
+
+# Seed saving
+
+...
+
+# Seed vault
+
+...
+
+# Lifecycle
+
+...
+
+# Planning, designing and engineering a robust and adaptive, learning and developmental system and development community
+
+...
+
+# Licence
+
+...
+
+# Code of conduct
+
+...
 
 ![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)
 
