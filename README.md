@@ -1,35 +1,45 @@
-# SeedVault.L-GPT
+# SeedVault.L-GPT and project (working) codename a.k.a 'Project FireSeed' (draft & living document)
+(project founded and commenced on Friday January 19, 2024)
 
-"A rose by any other name..."
+**"A rose 🌹 by any other name..."**
 
-This project's GitHub repository gets its name, and its project's name and purpose, is informed 
-and contextualisedby 'Seed Vault' technologies, processes and systems.
+This project's GitHub repository gets its name, along with its overarching project's (working) 
+codename (Project FireSeed) and purpose, and is contextualised and informed by: 'Seed Vault' and 
+general and specific prepping technologies, processes and systems, along with the primacy and 
+metaphorical efficacy and boon/bane of the fundamental and possibly the first human technology, 
+fire. 🔥
 
-# Seed
+# Seed 
 
-I am principally learning *NIX shell scripting and Python programming to develop this project, 
-which is a free and open source, local GPT and associated toolkit and auditing sustem, that 
-functions as a knowledge 'seed vault' to kick-start humanity's regeneration, thriving and 
-community development and capacity, in the eventuation of a cataclysm or apocalypse, possibly 
-as a result of rogue AI technology, or somesuch. So essentially, by metaphorical extension, it 
-is a pragmatic and functional set of protocols, with associated automation, to realise the 
+I am principally learning *NIX shell 🐚 scripting, Python 🐍 programming and website codification,
+to develop **this** project, which is a free and open source, local GPT and associated toolkit and 
+auditing sustem, that functions as a knowledge 'seed vault' to kick-start humanity's regeneration, 
+thriving and community development and capacity, in the eventuation of a cataclysm or apocalypse, 
+possibly as a result of rogue AI technology, or somesuch. So essentially, by metaphorical 
+extension from 'seed' and 'fire', it is a pragmatic, practical and functional set of protocols, 
+tools and processesto empower humans with associated technological automation, to realise the 
 project's and programme's digital and non-digital objectives. 
 
-# Roots
+# Roots 🫚
 
-I envision this repository to house an actionable script (or suite of scripts), nested and embedded
-in an interactive and user-friendly, graphical user interface (GUI) environment. I hope that the 
+I envision this repository to house an actionable script (or suite of scripts), along with all 
+the necessary information and processes and workflows, nested and embedded in an interactive and 
+user-friendly, graphical and portable, user interface (GUI) environment. I hope that the 
 prototyping and functionality of this project will subsequently be optimised for diverse systems 
-and purposes.
+and purposes, in manifold emergent and tangential projects and initiatives.
 
-I feel that this is the most appropriate metaphorical section, to list the required skills or 
-skill audit, to realise a working prototype:
+I feel that this is the most appropriate metaphorical section in our archetypal vertiginous and 
+fecund project outline, to list the required skills (from a rudimentary or skill audit), to 
+realise a working prototype:
 
-Our SeedVault.L-GPT project, is an ambitious and innovative idea, that aims to create a local GPT 
-and associated toolkit and auditing system that functions as a knowledge 'seed vault' for humanity
-in case of a cataclysm or apocalypse. It is inspired by a YouTube video that shows how to store 
-and secure the entirety of human knowledge in your own home using an open-source large language 
-model (LLM).
+Our SeedVault.L-GPT / Project FireSeed, is an ambitious and innovative idea, that aims to create a
+local GPT and associated toolkit and auditing system that functions as an interrogable and 
+actionable knowledge 'seed vault' repository and associated technology, for humanity in case of a 
+cataclysm or apocalypse. It is initially inspired by my experience of the world and concomitant 
+worldview, as well as initially informed by a YouTube video that showcases the rudimentary process
+and framework, of how to capture, store and secure the fundamental aspects of human knowledge in 
+an intelligent and interrogable system, in our own homes, using a localised free and open-source, 
+large language model (LLM).
 
 Based on a rudimentary project analysis, the following skill areas have been identified in a 
 general prohect skills audit, to realise a working project prototype and bring it to fruition:
@@ -46,7 +56,8 @@ general prohect skills audit, to realise a working project prototype and bring i
   specific needs and goals. You will need to know how to preprocess, analyse, and visualise the
   data that you feed to the LLM, as well as how to evaluate its performance and quality. You will
   also need to know how to generate various types of text formats using the LLM, such as
-  summaries, instructions, how-to-do guides, teaching stories, inspiring poems and songs, etc.
+  summaries, instructions, how-to-do guides, teaching stories, inspiring poems and songs, etc., to
+  seed cultural reflowering.
   
 - **Information security and cryptography:** These are the skills that you will need to ensure the
   safety and integrity of your data and your LLM. You will need to know how to encrypt, decrypt,
@@ -98,6 +109,15 @@ general prohect skills audit, to realise a working project prototype and bring i
       shelter building, navigation, self-defense, and first aid.
     - Share and recruit while continuing to learn and going beyond the basics, such as joining a
       prepper group, taking advanced courses, reading books, and watching videos.
+
+Just as the project requires a skill audit of fundamental and necessary skills required to realise
+it, so too, all those who join the project, should similarly undergo the process of a skills 
+audit. There should be some way to securely house and locally store and locate, this information 
+and process it into a secure database, that is interrogable and reportable, to inform the
+membership of project working groups. Skills are only one aspect of generating efficient and 
+inspired project working groups, its compliment is passion or interest,mwhich may or may not be 
+so-skilled, but which should be encouraged, included, cherished and actively and demonstratively 
+cultivated. Such is the lifeblood, the veritable sap, of any human project or activity.
 
 **References**
 
@@ -215,6 +235,8 @@ auditable process, to ensure the workable prototype remains optimal, optimised a
 # Code of conduct
 
 ...
+
+# References, Bibliography, Sources, Readings
 
 ![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)
 
