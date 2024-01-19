@@ -223,7 +223,32 @@ auditable process, to ensure the workable prototype remains optimal, optimised a
 
 # Annotated and Curated: References, Bibliography, Sources, Readings
 
-**References**
+**Shell scripting**
+
+...
+
+**Python programming**
+
+...
+
+**Project Management**
+
+...
+
+
+**Engineering and Design of Intelligent, Learning, Adaptive and Resilient Systems**
+
+
+**Auditing**
+
+...
+
+**Machine Learning, Deep Learning, LLM, AI, generative AI, GPTs, etc.**
+
+...
+
+
+**Sources that are yet to be vetted, curated, sorted and annotated**
 
 (1) Free Survival PDFs, Manuals, and Downloads [Prepper Library 2024 .... https://www.trueprepper.com/survival-pdfs-downloads/.
 
