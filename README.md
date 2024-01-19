@@ -1,9 +1,61 @@
 # SeedVault.L-GPT
-I am principally learning *NIX shell scripting and Python programming to develop this project, which is a free and open source, local GPT, that functions as a knowledge 'seed vault' to kick-start humanity's regeneration and community development in the eventuation of a cataclysm or apocalypse.
 
-I have been contemplating this project or its likes, since the emergence of the generative artificial boom that began globally in 2023 and is informed by:
+I am principally learning *NIX shell scripting and Python programming to develop this project, 
+which is a free and open source, local GPT, that functions as a knowledge 'seed vault' to kick-
+start humanity's regeneration and community development in the eventuation of a cataclysm or 
+apocalypse. I envision this repository to house a script or suite of scripts that will automate,
+coordinate and programme the digital and non-digital aspects, planning for contingencies and sundry 
+eventualities, in order to realise the project, as well as keeping the localised project and 
+initiative, audited and up-to-date, according to best practices. This is ambitious and currently, 
+significantly beyond my propensity and skill level, but realising it will frame and inform my 
+learning and practical endeavours.
+
+I have been contemplating this project or its likes, and the need for it, since the emergence of 
+the generative artificial intelligence GPT boom that began globally in 2023. This boom is both a 
+boon and bane, as is AI technology. All my human lived experience informs me, that using AI 
+technology, to counter the possible negative impacts of AI technology is fundamental, necessary and
+primary. This project is initially informed by:
 
 [![Video thumbnail](https://img.youtube.com/vi/GOjuuw8AvBc/maxresdefault.jpg)](https://youtu.be/GOjuuw8AvBc?si=SB3sv5_74BNfXdJj)
+
+This YouTube video provides a tutorial on how to store and secure the entirety of human knowledge
+in your own home. The speaker suggests downloading an open-source large language model (LLM) and 
+storing it on a local drive. Here are the steps outlined in the video on how to achieve this:
+
+1. **Choose an LLM:** The speaker recommends choosing the latest and greatest model that your
+   computer can run. He suggests downloading an uncensored model, especially for emergency
+   situations where you might need to access information that is typically restricted.
+
+2. **Download and store the LLM:** You can download the LLM directly from LM Studio, which is a
+   graphical user interface that simplifies the process. LM Studio also tells you which models are
+   compatible with your computer. Store the downloaded model on an external drive for redundancy
+   and portability.
+
+3. **Run the LLM:** LM Studio provides a chat interface where you can interact with the downloaded
+   model. You can ask it questions, get instructions, and even generate creative text formats.
+
+4. **Hardware and power:** To run the LLM, you will need a computer, an external drive to store the
+   model, and a power source. The speaker suggests using a battery backup or a solar panel for
+   power in case of emergencies.
+
+5. **Maintenance:** Keep your software and models up to date. Regularly check the battery health of
+   your backup power source.
+
+The following are some additional points mentioned in the video:
+
+* The speaker acknowledges that storing an LLM locally is not a foolproof solution, but it can be a
+  valuable resource in case of internet outages, government restrictions, or other unforeseen
+  circumstances.
+* They suggest storing the LLM in a fireproof safe and protecting it from electromagnetic
+  interference using a Faraday bag.
+* The video mentions alternative storage options like solid-state drives, tapes, and Blu-ray discs,
+  each with its own advantages and disadvantages. I intuit that none of these storage solutions
+  are omptimal for this project, and this will take considerable, informed research and inquiry to
+  determine for probity.
+
+Overall, this video provides a comprehensive overview of how to store and access a vast amount of 
+information locally using an LLM. While it's important to remember that this is not a guaranteed 
+solution for every scenario, it can be a valuable tool for preparedness and knowledge preservation.
 
 ![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)
 
