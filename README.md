@@ -1,5 +1,10 @@
 # SeedVault.L-GPT
 
+"A rose by any other name..."
+
+This project's GitHub repository gets its name, and its project's name and purpose, is informed 
+and contextualisedby 'Seed Vault' technologies, processes and systems.
+
 # Seed
 
 I am principally learning *NIX shell scripting and Python programming to develop this project, 
