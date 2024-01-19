@@ -328,6 +328,10 @@ acoming...
 
 ...
 
+# Glossary and project-specific lexicon
+
+...
+
 # Annotated and Curated: References, Bibliography, Sources, Readings
 
 **Shell scripting**
