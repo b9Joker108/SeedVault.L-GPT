@@ -29,9 +29,13 @@ project's and programme's digital and non-digital objectives.
 
 I envision this repository to house an actionable script (or suite of scripts), along with all 
 the necessary information and processes and workflows, nested and embedded in an interactive and 
-user-friendly, graphical and portable, user interface (GUI) environment. I hope that the 
-prototyping and functionality of this project will subsequently be optimised for diverse systems 
-and purposes, in manifold emergent and tangential projects and initiatives.
+user-friendly, graphical and portable, user interface (GUI) environment, along with the markdown
+of the project's website, graciously hosted by GitHub and Microsoft. The website should seek to 
+showcase all aspects of the project, its timeline and development, and seek to draw active skilled
+and/or interested and passionate parties to the project.
+
+I hope that the prototyping and functionality of this project will subsequently be optimised for 
+diverse systems and purposes, in manifold emergent and tangential projects and initiatives.
 
 I feel that this is the most appropriate metaphorical section in our archetypal vertiginous and 
 fecund project outline, to list the required skills (from a rudimentary or skill audit), to 
@@ -45,7 +49,15 @@ apocalypse. It is initially inspired by b9Joker108’s lived experience of the w
 worldview, as well as initially informed by a YouTube video (embedded herewith) that showcases the 
 rudimentary process and framework, of how to capture, store and secure the fundamental aspects of
 human knowledge in an intelligent and interrogable system, that is localised, decentralised, 
-portable and founded upon free and open-source, large language models (LLMs).
+portable and founded upon free and open-source, large language models (LLMs). I intuit that 
+liaising with the resplendent **Anna's Archive**, to amass a targeted dataset for the training 
+and tuning of the prospective LLMs, will be an imperative. As LLMs are developing and iterating 
+with breakneck speed, it is vital that within the project's auspices, that a process is automated,
+as much as is pragmatic and save to implement, by hard-wiring and soft-coding systems, that seeks 
+to ensure that the LLMs that are selected, remain relevant and appropriate given development, and 
+changing technologies and circumstances. This should be auditable and for the 
+most part, automatable, but must be checked, assessed and benchmarked by a centralised and de-
+centralised committee of informed and empassioned individuals.
 
 Based on a rudimentary project analysis, the following skill areas have been identified in a 
 generalised project skills' audit, to realise a working project prototype and bring it to fruition:
@@ -256,23 +268,34 @@ auditable process, to ensure the workable prototype remains optimal, optimised a
 
 **Sources that are yet to be vetted, curated, sorted and annotated**
 
-(1) Free Survival PDFs, Manuals, and Downloads [Prepper Library 2024 .... https://www.trueprepper.com/survival-pdfs-downloads/.
+(1) Free Survival PDFs, Manuals, and Downloads, 'Prepper Library 2024...' 
+https://www.trueprepper.com/survival-pdfs-downloads/.
 
-(2) Digital prepping, a huge collection of knowledge for off grid use.. https://www.reddit.com/r/preppers/comments/o44dmc/digital_prepping_a_huge_collection_of_knowledge/.
+(2) Digital prepping, a huge collection of knowledge for off grid use.
+https://www.reddit.com/r/preppers/comments/o44dmc/digital_prepping_a_huge_collection_of_knowledge/.
 
-(3) 8 ways to get started with digital preparedness (Digital Prepping .... https://www.youtube.com/watch?v=xnUtbfqHu_M.
+(3) 8 ways to get started with digital preparedness (Digital Prepping ....) 
+https://www.youtube.com/watch?v=xnUtbfqHu_M.
 
-(4) Emergency preparedness checklist: Prepping for beginners. https://theprepared.com/prepping-basics/guides/emergency-preparedness-checklist-prepping-beginners/.
+(4) Emergency preparedness checklist: Prepping for beginners. 
+https://theprepared.com/prepping-basics/guides/emergency-preparedness-checklist-prepping-beginners/.
 
-(5) A.P.S.L Australian Preppers Survival League – Prepping and Surviving .... https://www.apsl.org.au/.
+(5) A.P.S.L Australian Preppers Survival League – Prepping and Surviving .... 
+https://www.apsl.org.au/.
 
-(6) 100 Best Prepper and Survivalist Youtube Channels - Urban Survival Site. https://urbansurvivalsite.com/100-best-prepper-survivalist-youtube-channels/.
+(6) 100 Best Prepper and Survivalist Youtube Channels - Urban Survival Site. 
+https://urbansurvivalsite.com/100-best-prepper-survivalist-youtube-channels/.
 
-(7) undefined. http://internet-in-a-box.org/.
+(7) http://internet-in-a-box.org/.
 
-(1) How to Conduct a Skills Audit at Your Organization - AIHR. https://www.aihr.com/blog/skills-audit/.
-(2) How to conduct a skills audit with your employees - Robert Half. https://www.roberthalf.com/gb/en/insights/management-tips/how-conduct-skills-audit-your-employees.
-(3) How to Conduct a Skills Audit at Your Organization - AIHR. https://bing.com/search?q=human+skills+audit.
+(1) How to Conduct a Skills Audit at Your Organization - AIHR. 
+https://www.aihr.com/blog/skills-audit/.
+
+(2) How to conduct a skills audit with your employees - Robert Half. 
+https://www.roberthalf.com/gb/en/insights/management-tips/how-conduct-skills-audit-your-employees.
+
+(3) How to Conduct a Skills Audit at Your Organization - AIHR. 
+https://bing.com/search?q=human+skills+audit.
 
 ...
 
