@@ -3,6 +3,8 @@ I am principally learning *NIX shell scripting and Python programming to develop
 
 I have been contemplating this project or its likes, since the emergence of the generative artificial boom that began globally in 2023 and is informed by:
 
+[![Video thumbnail](https://img.youtube.com/vi/GOjuuw8AvBc/maxresdefault.jpg)](https://youtu.be/GOjuuw8AvBc?si=SB3sv5_74BNfXdJj)
+
 ![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)
 
 [![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
