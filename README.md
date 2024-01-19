@@ -9,11 +9,11 @@ and contextualisedby 'Seed Vault' technologies, processes and systems.
 
 I am principally learning *NIX shell scripting and Python programming to develop this project, 
 which is a free and open source, local GPT and associated toolkit and auditing sustem, that 
-functions as a knowledge 'seed vault' to kick-start humanity's regeneration, thriving and community 
-development and capacity, in the eventuation of a cataclysm or apocalypse, possibly as a result of 
-rogue AI technology. So essentially, by metaphorical extension, it is a pragmatic and functional 
-set of protocols, with associated automation, to realise the project's and programme's digital and 
-non-digital objectives. 
+functions as a knowledge 'seed vault' to kick-start humanity's regeneration, thriving and 
+community development and capacity, in the eventuation of a cataclysm or apocalypse, possibly 
+as a result of rogue AI technology, or somesuch. So essentially, by metaphorical extension, it 
+is a pragmatic and functional set of protocols, with associated automation, to realise the 
+project's and programme's digital and non-digital objectives. 
 
 # Roots
 
@@ -22,8 +22,95 @@ in an interactive and user-friendly, graphical user interface (GUI) environment.
 prototyping and functionality of this project will subsequently be optimised for diverse systems 
 and purposes.
 
-I feel that this is the most appropriate metaphorical section, to list the required skills, to 
-realise a working prototype.
+I feel that this is the most appropriate metaphorical section, to list the required skills or 
+skill audit, to realise a working prototype:
+
+Our SeedVault.L-GPT project, is an ambitious and innovative idea, that aims to create a local GPT 
+and associated toolkit and auditing system that functions as a knowledge 'seed vault' for humanity
+in case of a cataclysm or apocalypse. It is inspired by a YouTube video that shows how to store 
+and secure the entirety of human knowledge in your own home using an open-source large language 
+model (LLM).
+
+Based on a rudimentary project analysis, the following skill areas have been identified in a 
+general prohect skills audit, to realise a working project prototype and bring it to fruition:
+
+- **Shell scripting and Python programming:** These are the core skills that you will need to
+  create the scripts and the graphical user interface (GUI) for your project. You will also need
+  to be familiar with the LLM framework that you choose to use, such as GPT-3, GPT-Neo, or GPT-J.
+  You will need to know how to download, install, run, and update the LLM on your local drive, as
+  well as how to interact with it using LM Studio or other tools. You will also need to know how
+  to automate the processes and handle any errors or exceptions that may occur.
+  
+- **Data science and machine learning:** These are the skills that you will need to understand the
+  underlying principles and mechanisms of the LLM, as well as how to fine-tune it for your
+  specific needs and goals. You will need to know how to preprocess, analyse, and visualise the
+  data that you feed to the LLM, as well as how to evaluate its performance and quality. You will
+  also need to know how to generate various types of text formats using the LLM, such as
+  summaries, instructions, how-to-do guides, teaching stories, inspiring poems and songs, etc.
+  
+- **Information security and cryptography:** These are the skills that you will need to ensure the
+  safety and integrity of your data and your LLM. You will need to know how to encrypt, decrypt,
+  and authenticate your data and your LLM, as well as how to protect them from unauthorized
+  access, modification, or deletion. You will also need to know how to backup and restore your
+  data and your LLM in case of emergencies, as well as how to detect and prevent any potential
+  threats or attacks.
+  
+- **Project management, storytelling and communication:** These are the skills that you will need
+  to plan, execute, monitor, and control your project, as well as to communicate effectively with
+  your stakeholders, collaborators, and users. You will need to know how to define the scope,
+  objectives, deliverables, and milestones of your project, as well as how to allocate the
+  resources, time, and budget. You will also need to know how to manage the risks, issues, and
+  changes that may arise during the project lifecycle, as well as how to report the progress and
+  outcomes of your project. You will also need to know how to document your project and your LLM,
+  as well as how to provide user support and feedback.
+  
+- **Digital prepping:** This is the skill of creating, storing, and accessing a digital library
+  of useful information and resources that can be used offline or in a grid-down situation. You
+  will need to know how to:
+
+    - Choose and download an open-source large language model (LLM) that can provide you with
+      answers, instructions, and creative content, such as GPT-3, GPT-Neo, or GPT-J.
+    - Install and run the LLM on a local drive, such as an external hard drive or a solid state
+      drive, using a graphical user interface (GUI) such as LM Studio.
+    - Power and maintain your computer and drive using a battery backup, a solar panel, or other
+      alternative sources.
+    - Encrypt, backup, and restore your data and LLM, as well as protect them from unauthorized
+      access, modification, or deletion.
+    - Download and store other sources of free knowledge, such as Wikipedia, Khan Academy,
+      OpenStreetMap, E-Books, and others, using tools such as Internet-in-a-Box.
+    - Organize, search, and update your digital library, as well as share it with others in your
+      network or community.
+
+- **General prepping:** This is the skill of planning, preparing, and surviving for various
+  emergencies, disasters, and crises that may affect you, your family, or your community. You will
+  need to know how to:
+
+    - Build a solid personal finance and health foundation, such as saving money, paying off
+      debts, getting insurance, staying fit, and having a regular check-up.
+    - Get your home ready for two weeks of self-reliance, such as storing water, food, medicine,
+      and other essentials, as well as having a fire extinguisher, a first aid kit, and a
+      communication device.
+    - Be able to leave your home with only a moment's notice, such as having a bug out bag, a
+      vehicle, a destination, and a route.
+    - Prepare for emergencies that happen away from home, such as having a get home bag, an
+      everyday carry kit, and a survival mindset.
+    - Learn core skills and practice with your gear, such as fire making, water purification,
+      shelter building, navigation, self-defense, and first aid.
+    - Share and recruit while continuing to learn and going beyond the basics, such as joining a
+      prepper group, taking advanced courses, reading books, and watching videos.
+
+**References**
+
+(1) Free Survival PDFs, Manuals, and Downloads [Prepper Library 2024 .... https://www.trueprepper.com/survival-pdfs-downloads/.
+(2) Digital prepping, a huge collection of knowledge for off grid use.. https://www.reddit.com/r/preppers/comments/o44dmc/digital_prepping_a_huge_collection_of_knowledge/.
+(3) 8 ways to get started with digital preparedness (Digital Prepping .... https://www.youtube.com/watch?v=xnUtbfqHu_M.
+(4) Emergency preparedness checklist: Prepping for beginners. https://theprepared.com/prepping-basics/guides/emergency-preparedness-checklist-prepping-beginners/.
+(5) A.P.S.L Australian Preppers Survival League – Prepping and Surviving .... https://www.apsl.org.au/.
+(6) 100 Best Prepper and Survivalist Youtube Channels - Urban Survival Site. https://urbansurvivalsite.com/100-best-prepper-survivalist-youtube-channels/.
+(7) undefined. http://internet-in-a-box.org/.
+(1) How to Conduct a Skills Audit at Your Organization - AIHR. https://www.aihr.com/blog/skills-audit/.
+(2) How to conduct a skills audit with your employees - Robert Half. https://www.roberthalf.com/gb/en/insights/management-tips/how-conduct-skills-audit-your-employees.
+(3) How to Conduct a Skills Audit at Your Organization - AIHR. https://bing.com/search?q=human+skills+audit.
 
 ...
 
