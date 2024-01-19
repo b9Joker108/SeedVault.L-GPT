@@ -231,7 +231,11 @@ brimming with knowledge and the potential for groundbreaking discoveries.
 So, whether you're a data novice or a seasoned pro, Kaggle has something for you. Dive into the 
 competitions, join the discussions, and embark on your data science adventure!
 
-...
+I fortuitously happenned upon Kaggle, by the grace and benevolence of Goddess Serendipity. I 
+almost didn't click on the linkage due to being somewhat bemused by its fluffy nomenclature. I 
+dont know what repaired my reservations in the name exactly, for I did go forth, through the 
+linkage to the site, and was instantaneously pleased, appreciative, and perceived its value to my 
+emergent project.
 
 # Fruiting
 
