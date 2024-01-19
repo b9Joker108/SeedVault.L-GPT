@@ -119,21 +119,6 @@ inspired project working groups, its compliment is passion or interest,mwhich ma
 so-skilled, but which should be encouraged, included, cherished and actively and demonstratively 
 cultivated. Such is the lifeblood, the veritable sap, of any human project or activity.
 
-**References**
-
-(1) Free Survival PDFs, Manuals, and Downloads [Prepper Library 2024 .... https://www.trueprepper.com/survival-pdfs-downloads/.
-(2) Digital prepping, a huge collection of knowledge for off grid use.. https://www.reddit.com/r/preppers/comments/o44dmc/digital_prepping_a_huge_collection_of_knowledge/.
-(3) 8 ways to get started with digital preparedness (Digital Prepping .... https://www.youtube.com/watch?v=xnUtbfqHu_M.
-(4) Emergency preparedness checklist: Prepping for beginners. https://theprepared.com/prepping-basics/guides/emergency-preparedness-checklist-prepping-beginners/.
-(5) A.P.S.L Australian Preppers Survival League – Prepping and Surviving .... https://www.apsl.org.au/.
-(6) 100 Best Prepper and Survivalist Youtube Channels - Urban Survival Site. https://urbansurvivalsite.com/100-best-prepper-survivalist-youtube-channels/.
-(7) undefined. http://internet-in-a-box.org/.
-(1) How to Conduct a Skills Audit at Your Organization - AIHR. https://www.aihr.com/blog/skills-audit/.
-(2) How to conduct a skills audit with your employees - Robert Half. https://www.roberthalf.com/gb/en/insights/management-tips/how-conduct-skills-audit-your-employees.
-(3) How to Conduct a Skills Audit at Your Organization - AIHR. https://bing.com/search?q=human+skills+audit.
-
-...
-
 # Sprout
 
 I anticipate this project, to map, coordinate and programme, the digital and non-digital aspects, 
@@ -236,7 +221,29 @@ auditable process, to ensure the workable prototype remains optimal, optimised a
 
 ...
 
-# References, Bibliography, Sources, Readings
+# Annotated and Curated: References, Bibliography, Sources, Readings
+
+**References**
+
+(1) Free Survival PDFs, Manuals, and Downloads [Prepper Library 2024 .... https://www.trueprepper.com/survival-pdfs-downloads/.
+
+(2) Digital prepping, a huge collection of knowledge for off grid use.. https://www.reddit.com/r/preppers/comments/o44dmc/digital_prepping_a_huge_collection_of_knowledge/.
+
+(3) 8 ways to get started with digital preparedness (Digital Prepping .... https://www.youtube.com/watch?v=xnUtbfqHu_M.
+
+(4) Emergency preparedness checklist: Prepping for beginners. https://theprepared.com/prepping-basics/guides/emergency-preparedness-checklist-prepping-beginners/.
+
+(5) A.P.S.L Australian Preppers Survival League – Prepping and Surviving .... https://www.apsl.org.au/.
+
+(6) 100 Best Prepper and Survivalist Youtube Channels - Urban Survival Site. https://urbansurvivalsite.com/100-best-prepper-survivalist-youtube-channels/.
+
+(7) undefined. http://internet-in-a-box.org/.
+
+(1) How to Conduct a Skills Audit at Your Organization - AIHR. https://www.aihr.com/blog/skills-audit/.
+(2) How to conduct a skills audit with your employees - Robert Half. https://www.roberthalf.com/gb/en/insights/management-tips/how-conduct-skills-audit-your-employees.
+(3) How to Conduct a Skills Audit at Your Organization - AIHR. https://bing.com/search?q=human+skills+audit.
+
+...
 
 ![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)
 
