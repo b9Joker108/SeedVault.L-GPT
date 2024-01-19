@@ -3,11 +3,16 @@
 
 **"A rose 🌹 by any other name..."**
 
-This project's GitHub repository gets its name, along with its overarching project's (working) 
-codename (Project FireSeed) and purpose, and is contextualised and informed by: 'Seed Vault' and 
-general and specific prepping technologies, processes and systems, along with the primacy and 
-metaphorical efficacy and boon/bane of the fundamental and possibly the first human technology, 
-fire. 🔥
+This project's GitHub repository gets its name, along with the initiative's working codename 
+(Project FireSeed) and purpose, and is contextualised and informed by: 'Seed Vault' and 
+associated and nested systems and technologies, along with general and specific prepping 
+technologies, processes and systems. The project's repository and codename are informed by:
+
+**first**, resilient, adaptive and archivable food-system seed vault processes, protocols and 
+technologies; and **secondly**, by possibly the first human technology that ever developed, the 
+adaptation to, and harnessing of: the boon/bane of fire. 🔥 Both 'seed' and 'fire' are potent and 
+primal metaphors that are pervasive throughout the human condition, and fundamental to human 
+culture and its continuity.
 
 # Seed 
 
@@ -32,17 +37,18 @@ I feel that this is the most appropriate metaphorical section in our archetypal 
 fecund project outline, to list the required skills (from a rudimentary or skill audit), to 
 realise a working prototype:
 
-Our SeedVault.L-GPT / Project FireSeed, is an ambitious and innovative idea, that aims to create a
-local GPT and associated toolkit and auditing system that functions as an interrogable and 
-actionable knowledge 'seed vault' repository and associated technology, for humanity in case of a 
-cataclysm or apocalypse. It is initially inspired by my experience of the world and concomitant 
-worldview, as well as initially informed by a YouTube video that showcases the rudimentary process
-and framework, of how to capture, store and secure the fundamental aspects of human knowledge in 
-an intelligent and interrogable system, in our own homes, using a localised free and open-source, 
-large language model (LLM).
+Our **SeedVault.L-GPT** / **Project FireSeed**, is an ambitious and innovative initiative, that 
+aims to create localised, portable and decentralised GPT, associated toolkit and auditing system, 
+that functions as an interrogable and actionable knowledge 'seed vault' repository, with 
+concomitant and associated technology and information, for humanity in case of a  cataclysm or 
+apocalypse. It is initially inspired by b9Joker108’s lived experience of the world and resultant 
+worldview, as well as initially informed by a YouTube video (embedded herewith) that showcases the 
+rudimentary process and framework, of how to capture, store and secure the fundamental aspects of
+human knowledge in an intelligent and interrogable system, that is localised, decentralised, 
+portable and founded upon free and open-source, large language models (LLMs).
 
 Based on a rudimentary project analysis, the following skill areas have been identified in a 
-general prohect skills audit, to realise a working project prototype and bring it to fruition:
+generalised project skills' audit, to realise a working project prototype and bring it to fruition:
 
 - **Shell scripting and Python programming:** These are the core skills that you will need to
   create the scripts and the graphical user interface (GUI) for your project. You will also need
