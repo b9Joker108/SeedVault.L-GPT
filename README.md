@@ -199,6 +199,8 @@ solution for every scenario, it can be a valuable tool for preparedness and know
 
 https://www.kaggle.com/ (accessed: Saturday January 20, 2024)
 
+https://www.kaggle.com/learn (accessed: Saturday January 20, 2024)
+
 ...
 
 # Fruiting
