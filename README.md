@@ -114,7 +114,8 @@ skill-sets, to bring a prototype to fruition.
 
 # Lifecycle
 
-...
+Through engineering and intelligent design, this project aims to have an in-built, automated and 
+auditable process, to ensure the workable prototype remains optimal, optimised and up-to-date 
 
 # Planning, designing and engineering a robust and adaptive, learning and developmental system and development community
 
