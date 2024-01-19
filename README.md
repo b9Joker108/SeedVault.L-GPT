@@ -322,8 +322,9 @@ auditable process, to ensure the workable prototype remains optimal, optimised a
 
 # Code of conduct
 
-In a nutshell, the preamble to the project 'Code of Conduct' is to nurture, safeguard and stow the 
-seed, all seeds be they literal, figurative or metaphorical, for Winter is coming...
+In a nutshell, the preamble and executive summary to the project 'Code of Conduct' is to nurture, 
+safeguard and stow the seed, all seeds, be they literal, figurative or metaphorical, for Winter is
+acoming...
 
 ...
 
