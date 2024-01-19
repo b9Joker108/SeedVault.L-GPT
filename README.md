@@ -85,7 +85,14 @@ solution for every scenario, it can be a valuable tool for preparedness and know
 
 # Seed gathering
 
-...
+In the metaphorical structure of this project and programme's outline, I feel and intuit, that 
+this section is apt for enshrining the developmental community aspects and skill requirements to
+realise a working prototype of this initiative. It is my experience, that projects and initiatives 
+engender their own lifeforce, humunculi of sorts, that bring about the mechanisms and processes 
+for their own realisation, and completion. I appreciate that this is rather whimsical and 
+fancifil, but this is my experience and it is informed and contextualised by my experience and 
+worldview. To this end, I envision that this project will draw to it, people with the necessary
+skill-sets, to bring a prototype to fruition.
 
 # Seed saving
 
