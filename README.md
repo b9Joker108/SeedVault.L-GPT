@@ -17,6 +17,11 @@ in an interactive and user-friendly, graphical user interface (GUI) environment.
 prototyping and functionality of this project will subsequently be optimised for diverse systems 
 and purposes.
 
+I feel that this is the most appropriate metaphorical section, to list the required skills, to 
+realise a working prototype.
+
+...
+
 # Sprout
 
 I anticipate this project, to map, coordinate and programme, the digital and non-digital aspects, 
