@@ -96,6 +96,43 @@ https://labelstud.io/blog/data-labeling-and-comparative-analysis-of-fine-tuning-
 [5] Data Annotation for Fine-tuning Large Language Models(LLMs) 
 https://www.linkedin.com/pulse/data-annotation-fine-tuning-large-language-modelsllms-tagx
 
+# A cursory overview of some OS applications, frameworks and/ platforms for tagging datasets
+
+Tagging datasets is the process of adding labels or metadata to data items, such as images, text, 
+audio, video, etc. Tagging datasets can help with organizing, indexing, searching, and analyzing 
+data, as well as training and evaluating machine learning models.
+
+There are many open source alternatives for tagging datasets, depending on the type and complexity 
+of the data and the task. Here are some of the popular and widely used tools for tagging datasets:
+
+- Label Studio: This is a flexible and versatile tool that supports all types of data, such as 
+image, text, audio, video, time series, etc. It also supports various types of annotation, such as
+classification, object detection, segmentation, transcription, etc. It has a unique configuration 
+system that allows you to customize your own labeling interface and workflow. You can learn more 
+about Label Studio from its website¹ or its documentation².
+- Doccano: This is a simple and intuitive tool that focuses on text annotation, such as named 
+entity recognition, text classification, sentiment analysis, etc. It has a user-friendly web 
+interface that allows you to create and manage projects, upload and label documents, and export 
+annotations. You can learn more about Doccano from its website³ or its GitHub repository⁴.
+- CVAT: This is a powerful and advanced tool that specializes in image and video annotation, such 
+as bounding boxes, polygons, keypoints, tracks, etc. It has a rich set of features and 
+functionalities, such as interpolation, annotation quality control, task management, user roles, 
+etc. You can learn more about CVAT from its website or its documentation.
+
+**Citations **
+
+(1) 10 of the best open-source annotation tools for computer vision. 
+https://humansintheloop.org/10-of-the-best-open-source-annotation-tools-for-computer-vision/.
+
+(2) Open Source Data Labeling | Label Studio. 
+https://labelstud.io/.
+
+(3) Top 10 Open Source Data Labeling/Annotation Platforms in 2024 - AIMultiple. 
+https://research.aimultiple.com/open-source-data-labeling/.
+
+(4) Use Tag Engine to create bulk tags in Data Catalog. 
+https://cloud.google.com/architecture/tag-engine-and-data-catalog.
+
 # What are the other aspects of enriching datasets for LLM training and tuning, apart from tagging?
 
 Apart from tagging, other aspects of enriching datasets for Large Language Model (LLM) training 
