@@ -96,7 +96,7 @@ https://labelstud.io/blog/data-labeling-and-comparative-analysis-of-fine-tuning-
 [5] Data Annotation for Fine-tuning Large Language Models(LLMs) 
 https://www.linkedin.com/pulse/data-annotation-fine-tuning-large-language-modelsllms-tagx
 
-# A cursory overview of some OS applications, frameworks and/ platforms for tagging datasets
+# A cursory overview of some OS applications, frameworks and/or platforms for tagging datasets
 
 Tagging datasets is the process of adding labels or metadata to data items, such as images, text, 
 audio, video, etc. Tagging datasets can help with organizing, indexing, searching, and analyzing 
