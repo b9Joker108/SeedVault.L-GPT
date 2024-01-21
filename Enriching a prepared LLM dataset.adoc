@@ -3,9 +3,6 @@
 "I understand that once the dataset is prepared in a suitable format for readability by the LLM, 
 that it is then enriched by 'tagging'. Please explain this in detail." 
 
-I understand that once the dataset is prepared in a suitable format for readability by the LLM, 
-that it is then enriched bt 'tagging'. Please explain this in detail.
-
 The process of enriching a dataset for Large Language Model (LLM) training and tuning often 
 involves "tagging," which is the annotation of the dataset with specific labels or tags to make it 
 more informative and tailored to the desired task. This annotation process is crucial for fine-
@@ -48,3 +45,55 @@ https://toloka.ai/blog/how-llms-are-trained/
 [5] Data Collection for Building LLMs: Methods, Tools & Challenges 
 https://www.turing.com/resources/data-collection-methods-and-tools-for-llms
 
+# A cursory introduction to best practices in the discipline of data labeling in LLM training and tuning
+
+Some best practices for data labeling in Large Language Model (LLM) training and tuning include:
+
+1. **Budget Optimization:** Making every penny count by considering cost-effective labeling 
+approaches, such as active learning and semi-supervised learning, to minimize the need for 
+extensive manual labeling[3].
+
+2. **Data Quality:** Ensuring that the labeled data is representative of real-world scenarios and 
+validating labels regularly to enhance data quality. A model trained on high-quality data not only
+performs better but also requires fewer iterations, saving time and resources in the long run[3].
+
+3. **Faster Time to Market:** Using efficient labeling approaches to reduce the time needed for 
+data preparation, which can provide a first-mover advantage in establishing a strong market 
+presence[3].
+
+4. **Tailored Training:** Customizing the fine-tuning of LLMs to specific use cases, as a 'one size
+fits all' approach rarely works in the AI industry. Efficient fine-tuning is essential for 
+optimizing LLMs for specific tasks, enhancing their performance, and enabling them to address real-
+world challenges[3].
+
+5. **Data Annotation and Comparative Analysis:** Accurate data labeling is essential to train 
+models effectively, as it provides the ground truth for the model to understand and generalize 
+patterns from the labeled data. Comparative analysis of fine-tuning methods can help in 
+understanding the best approaches for LLM training and tuning[4].
+
+6. **Data Annotation for Fine-Tuning LLMs:** The process usually entails training the LLM on the 
+annotated dataset specific to the task, followed by evaluating and iterating to achieve optimal 
+performance. Standardizing the data, handling missing values, and appropriate annotation of the 
+dataset are crucial steps in the fine-tuning process[5].
+
+These best practices are essential for ensuring the effectiveness, efficiency, and practicality of 
+data labeling in LLM training and tuning.
+
+**Citations**
+
+[1] Data labeling: a practical guide (2023) 
+https://snorkel.ai/data-labeling/
+
+[2] What you need to know about Data Labeling and LLMs Training 
+https://kili-technology.com/large-language-models-llms/data-labeling-and-large-language-models-training
+
+[3] LLM Data Labeling Strategies for Product Managers 
+https://www.linkedin.com/pulse/llm-data-labeling-strategies-product-managers-adnan-boz?trk=article-ssr-frontend-pulse_more-articles_related-content-card
+
+[4] Data Labeling and Comparative Analysis of Fine-Tuning Methods | Label Studio 
+https://labelstud.io/blog/data-labeling-and-comparative-analysis-of-fine-tuning-methods/
+
+[5] Data Annotation for Fine-tuning Large Language Models(LLMs) 
+https://www.linkedin.com/pulse/data-annotation-fine-tuning-large-language-modelsllms-tagx
+
+By Perplexity at https://www.perplexity.ai/search/609f2ae7-16b3-4beb-8c93-c0dccd6b21c7?s=m
