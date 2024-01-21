@@ -96,4 +96,50 @@ https://labelstud.io/blog/data-labeling-and-comparative-analysis-of-fine-tuning-
 [5] Data Annotation for Fine-tuning Large Language Models(LLMs) 
 https://www.linkedin.com/pulse/data-annotation-fine-tuning-large-language-modelsllms-tagx
 
-By Perplexity at https://www.perplexity.ai/search/609f2ae7-16b3-4beb-8c93-c0dccd6b21c7?s=m
+# What are the other aspects of enriching datasets for LLM training and tuning, apart from tagging?
+
+Apart from tagging, other aspects of enriching datasets for Large Language Model (LLM) training 
+and tuning include:
+
+1. **Enriching Data with Context or System Prompts:** Projects like Dolly and Orca have shown that 
+enriching data with context or system prompts can significantly improve the final model's 
+quality[1].
+
+2. **Real-Time Training and Acknowledgment of New Tags:** Some platforms, such as Tagmatic, offer 
+real-time training and acknowledgment of new tags, which is unachievable with standard fine-tuning 
+training. This capability allows models to refresh themselves thousands of times daily, leading to 
+higher accuracy metrics[2].
+
+3. **Dataset Collection and Cleaning:** The initial training stage involves dataset collection and 
+cleaning to ensure that the data is representative of real-world scenarios and of high quality[3].
+
+4. **Model Tuning:** This step includes creating a rich representation of language and acquiring 
+knowledge about various linguistic aspects. Model tuning is essential for adapting the pre-trained 
+model's general language understanding to perform specific tasks effectively[3].
+
+5. **Data Annotation and Comparative Analysis:** Accurate data labeling is essential to train 
+models effectively, as it provides the ground truth for the model to understand and generalize 
+patterns from the labeled data. Comparative analysis of fine-tuning methods can help in 
+understanding the best approaches for LLM training and tuning[5].
+
+These aspects are crucial for optimizing LLMs for specific tasks, enhancing their performance, and
+enabling them to address real-world challenges effectively.
+
+**Citations**
+
+[1] My experience on starting with fine tuning LLMs with custom data 
+https://www.reddit.com/r/LocalLLaMA/comments/14vnfh2/my_experience_on_starting_with_fine_tuning_llms/?rdt=37602
+
+[2] The surge of LLM models and their impact on Tagmatic 
+https://datalanguage.com/blog/llm-vs-tagmatic
+
+[3] LLM training and fine-tuning 
+https://toloka.ai/blog/how-llms-are-trained/
+
+[4] Data Annotation for Fine-tuning Large Language Models(LLMs) 
+https://www.linkedin.com/pulse/data-annotation-fine-tuning-large-language-modelsllms-tagx
+
+[5] Data Labeling and Comparative Analysis of Fine-Tuning Methods | Label Studio 
+https://labelstud.io/blog/data-labeling-and-comparative-analysis-of-fine-tuning-methods/
+
+
