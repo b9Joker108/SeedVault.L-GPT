@@ -1,5 +1,4 @@
-# File markup extensions that strike a strong balance between richness, functionality, readability, 
-and interpretability for training and tuning open-source LLMs:
+# File markup extensions that strike a strong balance between richness, functionality, readability, and interpretability for training and tuning open-source LLMs:
 
 **1. AsciiDoc (.adoc):**
 
