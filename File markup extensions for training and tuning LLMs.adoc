@@ -152,3 +152,75 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724
 [21] [PDF] A Multi-faceted Approach to Document Quality Assessment 
 https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/10380857-1b9d-55e9-a76a-9dec1d7b703a/content
 
+
+# What are some popular file markup extensions for training and tuning open-source llms
+
+When training and tuning open-source Large Language Models (LLMs), several file markup extensions 
+are commonly used due to their balance between richness, functionality, readability, and 
+interpretability. 
+
+Markdown is a popular choice due to its simplicity and readability. It is widely used in 
+repositories like GitHub and platforms like Joplin, an open-source note-taking application[1][6]. 
+
+XML, JSON, and YAML are other formats that privilege human readability but are not very storage 
+efficient. These formats are often used in computational materials science and other data-centric 
+fields[9]. 
+
+Binary formats like HDF5 are optimized for efficient searches but require interpreters to be 
+understood by a person. They are often used when data are very heterogeneous and contain 
+properties in the form of large vectors or matrices[9]. 
+
+In the context of LLMs, the use of an abstract interface (e.g., implemented as a Python library) 
+based on an abstract schema is proposed. This allows for the management of (meta)data 
+independently of the file format[9]. 
+
+In conclusion, the choice of file markup extensions for training and tuning open-source LLMs 
+depends on the specific requirements of the project, including the need for human readability, 
+storage efficiency, and the nature of the data being handled.
+
+**Citations**
+
+[1] GitHub - PetroIvaniuk/llms-tools: A list of LLMs Tools & Projects 
+https://github.com/PetroIvaniuk/llms-tools
+
+[2] GitHub - nlpfromscratch/nlp-llms-resources: Master list of curated resources on NLP and LLMs
+https://github.com/nlpfromscratch/nlp-llms-resources
+
+[3] Has anybody successfully implemented web search/browsing for their local LLM? 
+https://www.reddit.com/r/LocalLLaMA/comments/180jz0x/has_anybody_successfully_implemented_web/?rdt=50647
+
+[4] [R] YaRN: Efficient Context Window Extension of Large Language Models - Nous Research 2023 - 
+Open source allows context windows of up to 128k! 
+https://www.reddit.com/r/MachineLearning/comments/16a1hfe/r_yarn_efficient_context_window_extension_of/?rdt=54896
+
+[5] AI Code Tools: The Ultimate Guide in 2024 
+https://codesubmit.io/blog/ai-code-tools/
+
+[6] Joplin – An open-source note taking and to-do application with synchronisation 
+https://news.ycombinator.com/item?id=36611355
+
+[7] GitHub - rashmimarganiatgithub/LLMS_Library_2023: LLM_library is a comprehensive repository 
+serves as a one-stop resource hands-on code, insightful summaries. 
+https://github.com/rashmimarganiatgithub/LLMS_Library_2023
+
+[8] MetaGPT: Complete Guide to the Best AI Agent Available Right Now 
+https://www.unite.ai/metagpt-complete-guide-to-the-best-ai-agent-available-right-now/
+
+[9] Large language models and the rise of the AI code generators 
+https://www.infoworld.com/article/3696970/llms-and-the-rise-of-the-ai-code-generators.html
+
+[10] How to Instruction Tune DeciLM 6B using QLoRA | Deci 
+https://deci.ai/blog/how-to-instruction-tune-a-base-llm-using-qlora-with-decilm-6b/
+
+[11] VSCuda: LLM based CUDA extension for Visual Studio Code 
+https://dl.acm.org/doi/fullHtml/10.1145/3624062.3624064
+
+[12] VSCuda: LLM based CUDA extension for Visual Studio Code 
+https://dl.acm.org/doi/pdf/10.1145/3624062.3624064
+
+[13] Prompt Engineering: Get LLMs to Generate the Content You Want 
+https://thenewstack.io/prompt-engineering-get-llms-to-generate-the-content-you-want/
+
+[14] bigcode/the-stack · Datasets at Hugging Face 
+https://huggingface.co/datasets/bigcode/the-stack
+
