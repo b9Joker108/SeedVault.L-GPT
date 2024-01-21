@@ -41,7 +41,8 @@ humans and machines.
 navigation and interpretation.
 - **Configuration:** Often used for configuration files, demonstrating its ability to organize 
 information effectively.
-- **Compatibility:** Widely supported by programming languages and tools, ensuring interoperability.
+- **Compatibility:** Widely supported by programming languages and tools, ensuring 
+interoperability.
 
 **Key Considerations for Choosing:**
 
@@ -54,24 +55,40 @@ programming environment for each format.
 - **Specific LLM requirements:** Some LLMs might have preferences or optimizations for particular 
 formats.
 
-**Experimentation and evaluation are often necessary to determine the most suitable format for your 
-specific LLM project and dataset.**
+**Experimentation and evaluation are often necessary to determine the most suitable format for
+your specific LLM project and dataset.**
 
 # File markup extensions that strike a strong balance between richness, functionality, readability, and interpretability for training and tuning open-source LLMs
 
-When training and tuning open-source Large Language Models (LLMs), the choice of file markup extensions is crucial as it impacts the richness, functionality, readability, and interpretability of the model. The search results indicate a variety of formats that can be used, each with its own strengths and weaknesses.
+When training and tuning open-source Large Language Models (LLMs), the choice of file markup 
+extensions is crucial as it impacts the richness, functionality, readability, and interpretability 
+of the model. The following file extensions indicate a variety of formats that may be used for 
+such purposes, each with its own strengths and weaknesses.
 
-Markdown is a popular choice due to its simplicity and readability. It is widely used in repositories like GitHub and platforms like Joplin, an open-source note-taking application[1][11]. However, some argue that Markdown is not a good markup language due to its lack of context without specific tools like KeenWrite[3].
+Markdown is a popular choice due to its simplicity and readability. It is widely used in 
+repositories like GitHub and platforms like Joplin, an open-source note-taking application[1][11]. 
+However, some argue that Markdown is not a good markup language due to its lack of context without 
+specific tools like KeenWrite[3].
 
-XML, JSON, and YAML are other formats that privilege human readability but are not very storage efficient. These formats are often used in computational materials science and other data-centric fields[9]. They are also used in spatial data on the web, where clear semantics and standardized data metamodels are important[6].
+XML, JSON, and YAML are other formats that privilege human readability but are not very storage 
+efficient. These formats are often used in computational materials science and other data-centric
+fields[9]. They are also used in spatial data on the web, where clear semantics and standardized 
+data metamodels are important[6].
 
-Binary formats like HDF5 are optimized for efficient searches but require interpreters to be understood by a person. They are often used when data are very heterogeneous and contain properties in the form of large vectors or matrices[9].
+Binary formats like HDF5 are optimized for efficient searches but require interpreters to be 
+understood by a person. They are often used when data are very heterogeneous and contain 
+properties in the form of large vectors or matrices[9].
 
-In the context of LLMs, the use of an abstract interface (e.g., implemented as a Python library) based on an abstract schema is proposed. This allows for the management of (meta)data independently of the file format[9]. 
+In the context of LLMs, the use of an abstract interface (e.g., implemented as a Python library) 
+based on an abstract schema is proposed. This allows for the management of (meta)data 
+independently of the file format[9]. 
 
-In conclusion, the choice of file markup extensions for training and tuning open-source LLMs depends on the specific requirements of the project, including the need for human readability, storage efficiency, and the nature of the data being handled.
+In conclusion, the choice of file markup extensions for training and tuning open-source LLMs 
+depends on the specific requirements of the project, including the need for human readability, 
+storage efficiency, and the nature of the data being handled.
 
-Citations:
+**Citations**
+
 [1] GitHub - PetroIvaniuk/llms-tools: A list of LLMs Tools & Projects 
 https://github.com/PetroIvaniuk/llms-tools
 
