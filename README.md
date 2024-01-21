@@ -16,14 +16,17 @@ culture and its continuity.
 
 # Seed 
 
-I am principally learning *NIX shell 🐚 scripting, Python 🐍 programming and website codification,
-to develop **this** project, which is a free and open source, local GPT and associated toolkit and 
-auditing sustem, that functions as a knowledge 'seed vault' to kick-start humanity's regeneration, 
-thriving and community development and capacity, in the eventuation of a cataclysm or apocalypse, 
-possibly as a result of rogue AI technology, or somesuch. So essentially, by metaphorical 
-extension from 'seed' and 'fire', it is a pragmatic, practical and functional set of protocols, 
-tools and processesto empower humans with associated technological automation, to realise the 
-project's and programme's digital and non-digital objectives. 
+I am principally learning *NIX shell 🐚 scripting (and attendant website codification, through
+markdown, as website hosting is graciously available for GitHub repositories, by its patron and 
+owner Microsoft) through roadtesting my shell scripting roadmap, that is 'A Fable of the 
+Scriptkiddie Scriptoria', to then progress to Python 🐍 scripting and programming in order to 
+develop **this** project, which is a free and open source, localised GPT and associated toolkit 
+and auditing sustem, that functions as a knowledge 'seed vault' to kick-start humanity's 
+regeneration, thriving and community development and capacity, in the eventuation of a cataclysm
+or apocalypse, possibly as a result of rogue AI technology, or somesuch. So essentially, by 
+metaphorical extension from 'seed' and 'fire', it is a pragmatic, practical and functional set of
+protocols, tools and processes, to empower humans with associated technological automation, to 
+realise the project's and programme's digital and non-digital objectives. 
 
 # Roots 🫚
 
