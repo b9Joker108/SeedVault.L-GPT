@@ -56,3 +56,42 @@ formats.
 
 **Experimentation and evaluation are often necessary to determine the most suitable format for your 
 specific LLM project and dataset.**
+
+# File markup extensions that strike a strong balance between richness, functionality, readability, and interpretability for training and tuning open-source LLMs
+
+When training and tuning open-source Large Language Models (LLMs), the choice of file markup extensions is crucial as it impacts the richness, functionality, readability, and interpretability of the model. The search results indicate a variety of formats that can be used, each with its own strengths and weaknesses.
+
+Markdown is a popular choice due to its simplicity and readability. It is widely used in repositories like GitHub and platforms like Joplin, an open-source note-taking application[1][11]. However, some argue that Markdown is not a good markup language due to its lack of context without specific tools like KeenWrite[3].
+
+XML, JSON, and YAML are other formats that privilege human readability but are not very storage efficient. These formats are often used in computational materials science and other data-centric fields[9]. They are also used in spatial data on the web, where clear semantics and standardized data metamodels are important[6].
+
+Binary formats like HDF5 are optimized for efficient searches but require interpreters to be understood by a person. They are often used when data are very heterogeneous and contain properties in the form of large vectors or matrices[9].
+
+In the context of LLMs, the use of an abstract interface (e.g., implemented as a Python library) based on an abstract schema is proposed. This allows for the management of (meta)data independently of the file format[9]. 
+
+In conclusion, the choice of file markup extensions for training and tuning open-source LLMs depends on the specific requirements of the project, including the need for human readability, storage efficiency, and the nature of the data being handled.
+
+Citations:
+[1] GitHub - PetroIvaniuk/llms-tools: A list of LLMs Tools & Projects https://github.com/PetroIvaniuk/llms-tools
+[2] GitHub - nlpfromscratch/nlp-llms-resources: Master list of curated resources on NLP and LLMs https://github.com/nlpfromscratch/nlp-llms-resources
+[3] On why Markdown is not a good, or even a half-decent, markup language https://news.ycombinator.com/item?id=36793694
+[4] What are you building with local LLMs? https://www.reddit.com/r/LocalLLaMA/comments/176dkg3/what_are_you_building_with_local_llms/?rdt=50887
+[5] Has anybody successfully implemented web search/browsing for their local LLM? https://www.reddit.com/r/LocalLLaMA/comments/180jz0x/has_anybody_successfully_implemented_web/?rdt=50647
+[6] Spatial Data on the Web Best Practices https://www.w3.org/TR/sdw-bp/
+[7] GitHub - rashmimarganiatgithub/LLMS_Library_2023: LLM_library is a comprehensive repository serves as a one-stop resource hands-on code, insightful summaries. https://github.com/rashmimarganiatgithub/LLMS_Library_2023
+[8] 💡 Best Open Source LLM Starter Pack 🧪🚀 https://www.kaggle.com/code/radek1/best-open-source-llm-starter-pack
+[9] Shared metadata for data-centric materials science - Scientific Data https://www.nature.com/articles/s41597-023-02501-8
+[10] YAYI 2: Multilingual Open-Source Large Language Models https://arxiv.org/html/2312.14862v1
+[11] Joplin – An open-source note taking and to-do application with synchronisation https://news.ycombinator.com/item?id=36611355
+[12] ! Are You A Robot? https://www.sciencedirect.com/science/article/pii/S0166361521000464
+[13] VSCuda: LLM based CUDA extension for Visual Studio Code https://dl.acm.org/doi/fullHtml/10.1145/3624062.3624064
+[14] How to Instruction Tune DeciLM 6B using QLoRA | Deci https://deci.ai/blog/how-to-instruction-tune-a-base-llm-using-qlora-with-decilm-6b/
+[15] (PDF) Semantic Extensions to Domain-Specific Markup Languages https://www.researchgate.net/publication/238316392_Semantic_Extensions_to_Domain-Specific_Markup_Languages
+[16] Ask HN: Are we sure LLMs are that useful in a web search application? https://news.ycombinator.com/item?id=34723275
+[17] Do we need a more detailed definition for the HTML TOC format? · Issue #291 · w3c/wpub https://github.com/w3c/wpub/issues/291
+[18] LLM Powered Autonomous Agents https://lilianweng.github.io/posts/2023-06-23-agent/
+[19] UNITED NATIONS STATISTICAL COMMISSION https://unece.org/DAM/stats/publications/downloadingformats.pdf
+[20] Just a moment... https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202306724
+[21] [PDF] A Multi-faceted Approach to Document Quality Assessment https://rest.neptune-prod.its.unimelb.edu.au/server/api/core/bitstreams/10380857-1b9d-55e9-a76a-9dec1d7b703a/content
+
+By Perplexity at https://www.perplexity.ai/search/88fc026d-1c01-4b27-aff9-df8787f10190?s=m
